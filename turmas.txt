@@ -1,0 +1,5 @@
+﻿Código da Turma: 123
+Código da Disciplina: 123
+Período: 123
+CPF do Professor: 123
+CPF do Aluno: 123
